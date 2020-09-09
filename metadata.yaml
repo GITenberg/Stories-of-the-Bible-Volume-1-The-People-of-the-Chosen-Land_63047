@@ -1,0 +1,38 @@
+_repo: Stories-of-the-Bible-Volume-1-The-People-of-the-Chosen-Land_63047
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Doré
+    - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
+creator:
+  author:
+    agent_name: Endicott, Myles
+    gutenberg_agent_id: '52244'
+    url: http://www.gutenberg.org/2009/agents/52244
+description: ''
+gutenberg_issued: '2020-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible stories, English -- Old Testament -- Juvenile literature'
+- !lcsh 'Bible stories, English -- Juvenile literature'
+- !lcc 'BS'
+- GITenberg
+title: 'Stories of the Bible, Volume 1: The People of the Chosen Land'
+url: http://www.gutenberg.org/ebooks/63047
