@@ -1,5 +1,5 @@
 _repo: Stories-of-the-Bible-Volume-1-The-People-of-the-Chosen-Land_63047
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -15,12 +15,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gustave_Doré
     - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
+covers:
+- cover_type: archival
+  image_path: 63047-h/images/cover.jpg
 creator:
   author:
     agent_name: Endicott, Myles
     gutenberg_agent_id: '52244'
     url: http://www.gutenberg.org/2009/agents/52244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63047#Stories-of-the-Bible-Volume-1-The-People-of-the-Chosen-Land
 gutenberg_issued: '2020-08-26'
 gutenberg_type: Text
 identifiers:
